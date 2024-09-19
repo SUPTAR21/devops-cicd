@@ -9,7 +9,7 @@ VUE_APP_BACKEND_SERVICE=http://localhost:9090
 ```
 npm install
 ```
-
+ 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
